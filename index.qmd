@@ -8,5 +8,5 @@ format:
 ```{r}
 
 ```
-<img src="Pics/PIE_N_addition.png" width=“90%”/>
+<img src="Pics/PIE_N_addition.png" width=“10%”/>
 
