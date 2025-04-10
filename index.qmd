@@ -1,14 +1,7 @@
 ---
 title: "Untitled"
 ---
-<<<<<<< HEAD
 testing
-<img src="Pics/PIE_N_addition.png" width="40%"/>
-=======
+<img src="Pics/PIE_N_addition.png" width="30%"/>
 
-```{r}
-
-```
-<img src="Pics/PIE_N_addition.png" width=“30%”/>
->>>>>>> 7b333c21899eabe55458c9f2927a5e190e3f0a6e
 
