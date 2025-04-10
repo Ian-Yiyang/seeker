@@ -1,11 +1,9 @@
 {
-  "hash": "8eaac64091d47a23b3cb6e76d7561292",
+  "hash": "65c9ab8f33edb371ce81ccbea06d827b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Untitled\"\n---\n\n\n::: {.cell}\n\n:::\n\n<img src=\"Pics/PIE_N_addition.png\" width=“10%”/>\n\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: \"Untitled\"\n---\n<<<<<<< HEAD\ntesting\n<img src=\"Pics/PIE_N_addition.png\" width=\"40%\"/>\n=======\n\n\n::: {.cell}\n\n:::\n\n<img src=\"Pics/PIE_N_addition.png\" width=“30%”/>\n>>>>>>> 7b333c21899eabe55458c9f2927a5e190e3f0a6e\n\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
