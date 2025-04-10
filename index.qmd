@@ -1,7 +1,6 @@
 ---
 title: "Untitled"
 ---
-testing
 <img src="Pics/PIE_N_addition.png" width="30%"/>
 
 
