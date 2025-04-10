@@ -1,12 +1,6 @@
 ---
 title: "Untitled"
-format:
-  html:
-    theme: default
 ---
-
-```{r}
-
-```
-<img src="Pics/PIE_N_addition.png" width=“10%”/>
+testing
+<img src="Pics/PIE_N_addition.png" width="40%"/>
 
