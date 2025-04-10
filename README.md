@@ -1,2 +1,0 @@
-# seeker
-My Personal Website
